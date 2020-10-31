@@ -1,0 +1,2 @@
+class OmikuzisController < ApplicationController
+end
